@@ -25,7 +25,10 @@ Inclou:
 
 Instalació des de fitxer PAC4_xavier_borrat.zip
 
-1. Descomprimir document zip
+1. Descomprimir document zip o clonar projecte
+
+git `git clone https://github.com/xborrat/PAC4.git
+`
 2. Crear un entorn virtual (optional)
 3. `pip install -r requirement.txt`
 
